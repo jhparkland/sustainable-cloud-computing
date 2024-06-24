@@ -3,6 +3,7 @@
 이 프로젝트는 Sustainable Cloud Computing에 관한 연구를 다루고 있습니다. 더 많은 정보는 [Wiki](https://github.com/jhparkland/sustainable-cloud-computing/wiki)에서 확인할 수 있습니다.
 
 # 1. Why 'Sustainable Cloud Computing'?
+
 지금 당신의 메일함에는 몇 개의 메일이 보관되어 있나요? 메일함의 메일 1GB 당 14.9kg의 탄소 에너지를 소모한다는 사실을 아시나요? 이는 15km/L 연비의 승용차로 100km를 주행한 것과 같은 양입니다.
 
 실제 전 세계 Cloud Data Center의 전력 사용량(PUE, Power Usage Effectiveness)은 전 세계 PUE의 2%를 차지하고 있을 뿐 아니라, IT Cloud 기술 발전과 함께 지속적으로 증가하고 있습니다.
