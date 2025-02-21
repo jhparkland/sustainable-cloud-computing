@@ -1,24 +1,19 @@
-# Paper Review
+# Paper information
 
-author: <your_name>
-
-## paper information
-
-- conference: 
-- paper title
-- authors:
+- conference:
+- paper title: 
+- authors: 
 
 # Main idea
-1. TBD
-2. TBD
-   
+1.
+
 # Pros
-1. TBD
-2. TBD
-   
+1. 
+
 # Cons
-1. TBD
-2. TBD
+1.
    
 # Cite
-TBA
+~~~ 
+
+~~~
